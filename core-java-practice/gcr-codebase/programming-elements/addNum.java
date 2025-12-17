@@ -1,5 +1,5 @@
 
-public class addNum {
+public class AddNum {
     public static void main(String[] args) {
         int a = 15;
         int b = 10;

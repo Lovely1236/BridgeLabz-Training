@@ -1,6 +1,6 @@
 
 
-public class celsiusToFarenhite {
+public class CelsiusToFarenhite {
 
     public static void main(String[] args) {
         double cel = 37.5;

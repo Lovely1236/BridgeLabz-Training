@@ -3,7 +3,7 @@ import java.util.*;
 public class CoffeeCounter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println("☕☕☕☕Welcome to The Coffee Counter ☕☕☕☕");
+        System.out.println("☕ ☕ ☕ ☕ ---Welcome to The Coffee Counter --- ☕ ☕ ☕ ☕ ");
         System.out.println("Here is our Coffee Menu:");
         System.out.println("1. Espresso - ₹165");
         System.out.println("2. Latte - ₹210");
@@ -27,9 +27,7 @@ public class CoffeeCounter {
                 break;
             }
 
-            System.out.print("May I know the quantity of " + coffeeType + ": ");
-            int quantity = sc.nextInt();
-
+           
             double price = 0;
 
             // Switch case for coffee prices
@@ -79,7 +77,10 @@ public class CoffeeCounter {
                 default:
                     System.out.println("Sorry,We Don't Serve That!");
                     continue;
-         }
+         }   
+            System.out.print("May I know the quantity of " + coffeeType + ": ");
+            int quantity = sc.nextInt();
+
             
             final double GST_RATE = 0.18; // fixed GST rate of 18%
 

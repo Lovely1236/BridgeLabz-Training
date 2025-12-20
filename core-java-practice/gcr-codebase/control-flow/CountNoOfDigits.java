@@ -13,13 +13,15 @@ public class CountNoOfDigits {
             count = 1; // Special case for 0
         } 
         else {
+            
+            // Counting digits for non-zero numbers
             while(temp != 0) {
                 temp /= 10;
                 count++;
             }
         }
         
-        
+
         System.out.println("Number of digits in " + number + " is " + count);
         
         sc.close();

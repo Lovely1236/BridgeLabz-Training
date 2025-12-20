@@ -4,6 +4,7 @@ public class FindAllMultiples {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
 
+     //Number should be between 1 and 100
      
         if(number>0 && number<=100){
             

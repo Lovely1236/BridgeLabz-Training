@@ -7,6 +7,7 @@ public class FindAllMultiplesWhile {
         
 
         if(number>0 && number<=100){
+            // Using while loop to find multiples
             while(counter >= 1) {
                 if (number%counter == 0) {
                     System.out.print(number + " ");

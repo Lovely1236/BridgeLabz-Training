@@ -4,6 +4,8 @@ public class FindFactors {
         Scanner sc = new Scanner(System.in);
         int number = sc.nextInt();
 
+
+        // Finding factors of the given number using for loop
        if(number>0){
         for (int i = 1; i <= number; i++) {
             if (number % i == 0) {

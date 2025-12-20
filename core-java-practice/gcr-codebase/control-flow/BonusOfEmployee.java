@@ -8,13 +8,14 @@ public class BonusOfEmployee {
         double sal = sc.nextDouble(); // sal-- Employee Salary
         double bonus = 0;
 
+        // Calculation of Bonus
 
-        if (yrsOfService > 5) {
+        if (yrsOfService > 5) { // If Years of Service is more than 5 years
 
-            bonus = 0.05 * sal;
+            bonus = 0.05 * sal; // Bonus is 5% of Salary
         } 
         else {
-            bonus = 0;
+            bonus = 0; // No Bonus
         }
 
         System.out.println("The bonus amount of the employee is: " + bonus);

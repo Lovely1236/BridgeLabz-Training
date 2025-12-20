@@ -14,7 +14,7 @@ public class CalculatorSwitchCase {
          
             double result;
          
-            switch(op) {
+            switch(op) {  // Switch case to perform different operations
              case "+":
                  result = first + second;
                  System.out.println("Result: " + result);

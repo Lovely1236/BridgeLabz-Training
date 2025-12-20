@@ -18,5 +18,6 @@ public class AbundantNumber {
         else {
             System.out.println(number + " is not an Abundant number.");
         }
+        sc.close();
     }
 }

@@ -6,6 +6,7 @@ public class FactorialOfNum {
        int num= sc.nextInt();
        int factorial= 1;
 
+       // Calculation of Factorial using while loop
        while(num >= 1) {
            factorial = factorial * num;
            num--;

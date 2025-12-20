@@ -4,7 +4,17 @@ public class CoffeeCounter {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("☕☕☕☕Welcome to The Coffee Counter ☕☕☕☕");
-
+        System.out.println("Here is our Coffee Menu:");
+        System.out.println("1. Espresso - ₹165");
+        System.out.println("2. Latte - ₹210");
+        System.out.println("3. Cappuccino - ₹120");
+        System.out.println("4. Americano - ₹155");
+        System.out.println("5. Mocha - ₹320");
+        System.out.println("6. Macchiato - ₹185");
+        System.out.println("7. Flat White - ₹130");
+        System.out.println("8. Ristretto - ₹175");
+        System.out.println("9. Affogato - ₹195");
+        System.out.println("10. Cortado - ₹200");
 
         while (true) {
             System.out.print("\nHello, Please Tell us your coffee choice (Espresso/Latte/Cappuccino/and may options or exit): ");

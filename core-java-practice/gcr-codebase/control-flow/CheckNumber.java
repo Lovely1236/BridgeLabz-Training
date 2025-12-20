@@ -11,12 +11,12 @@ public class CheckNumber {
         
         if(number > 0) {
 
-            System.out.println("positive");
+            System.out.println("Number is positive");
 
         }
          else if (number < 0) {
 
-            System.out.println("negative");
+            System.out.println("Number is negative");
 
         } 
         

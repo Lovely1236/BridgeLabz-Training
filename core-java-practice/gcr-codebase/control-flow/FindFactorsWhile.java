@@ -8,6 +8,8 @@ public class FindFactorsWhile {
         int counter = 1;
 
         if(num>0){
+
+        // Finding factors of the given number using while loop
             while(counter <= num) {
                 if (num % counter == 0) {
                     System.out.print(counter + " ");

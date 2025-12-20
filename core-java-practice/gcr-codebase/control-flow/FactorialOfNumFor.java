@@ -8,7 +8,7 @@ public class FactorialOfNumFor {
         int num = sc.nextInt();
 
         int factorial = 1;
-
+    // Calculation of Factorial using for loop
         for (int j = 1; j <= num; j++) {
             factorial *= j;
         }

@@ -14,8 +14,8 @@ public class StringComparison{
 	}
    public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
-		String st1=  sc.next();
-		String st2= sc.next();
+		String str1=  sc.next();
+		String str2= sc.next();
 		boolean res1= comparision(str1, str2);
 		boolean res2;
 		if(str1.equals(str2)){

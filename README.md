@@ -1,340 +1,195 @@
 ﻿## BridgeLabz Daily Progress Report 🚀
 
-This repository contains all the tasks, practice programs, and problem-solving work completed as part of *BridgeLabz Training.*  
+This repository contains all the tasks, practice programs, scenario-based problems, and problem-solving work completed as part of **BridgeLabz Training** and organized week-wise, day-wise and topic-wise while following standard GitHub workflows.
 
-## 📁 BridgeLabz Training Folder Structure
-
-```
-BridgeLabz-Training
-│
-├── core-java-practice
-│   ├── gcr-codebase
-│   │   ├── programming-elements
-│   │   └── control-flow
-│   │
-│   ├── scenario-based
-│   │
-│   └── leet-code-codebase
-│
-├── oops-practice
-│   ├── gcr-codebase
-│   │   ├── inheritance
-│   │   ├── encapsulation
-│   │   └── polymorphism
-│   │
-│   ├── scenario-based
-│   │
-│   └── leet-code-codebase
-│
-└── reviews
-```
-
-## 📅 Daily Progress Overview
-
-### ✅ 16 December
-*Introduction to BridgeLabz Training*
-- Introduction to BridgeLabz training process and guidelines
-- Completed *5 LeetCode problems* as the introductory task
-
-📂 Folder: leet-code-codebase
+## Repository Structure :-
 
 ---
 
-### ✅ 17 December
-*Completed Level 1 Java Programs*
-- Practiced Java basics and logic building
-- Worked on *Level 1 problems*
+     BridgeLabz-Training/
+     │
+     ├── core-java-practice/
+     │   │
+     │   ├── gcr-codebase/
+     │   │   ├── programming-elements/
+     │   │   └── control-flow/
+     │   │
+     │   ├── leet-code-codebase/
+     │   │
+     │   └── scenario-based/
+     │
+     ├── oops-practice/
+     │   │
+     │   ├── gcr-codebase/
+     │   │   ├── class-and-object/
+     │   │   ├── java-constructors/
+     |   |   ├── java-keywords/
+     |   |   ├── object-modeling/
+     |   |   ├── inheritance/
+     |   |   ├── oops-pillars/
+     |   |
+     │   ├── leet-code-codebase/
+     |   |
+     │   └── scenario-based/
+     |
+     |
+     ├── dsa-practice/
+     │   ├── gcr-codebase/
+     │   │   ├── linked-list/
+     |   |
+     |   |
+     ├── reviews/
+     |
+     +-- README.md
 
-*Topics Covered:*
-- Arithmetic operations
-- Basic calculations
-- Conditional logic
-- Java syntax fundamentals
-
-
-📂 Folder: core-java-practice/gcr-codebase/programming-elements
-
----
-
-### ✅ 18 December
-*Completed Level 1 & Level 2 Java Problems*
-- Solved both *Level 1 and Level 2 assigned problems*
-- Strengthened logical thinking and problem-solving skills
-
-*Topics Covered:*
-- Unit and distance conversions
-- Mathematical computations
-- Conditional statements
-- Control flow logic
-
-
-📂 Folder: core-java-practice/gcr-codebase/programming-elements
-
----
-
-### ✅ 19 December
-*Completed Level 1, Level 2 & Level 3 Java Problems*
-- Successfully solved all assigned problems from Level 1, Level 2, and Level 3
-- Enhanced logical thinking, problem-solving, and coding confidence
-
-*Topics Covered:*
-- Unit and distance conversions
-- Mathematical computations
-- Conditional statements (if, else if, else)
-- Control flow logic
-- Loops (for, while)
-- break and continue statements
-- switch statements
-- Boolean data types and logical operators
-
-📂 Folder: core-java-practice/gcr-codebase/control-flow
+## Weekly Workflow & Progress :-
 
 ---
 
-### ✅ 20 December
-*Practiced Java Array Concepts*
-- Solved practice problems based on single and multi-dimensional arrays
-- Improved understanding of array creation, access, and modification
-
-*Topics Covered:*
-- Java Arrays
-- Creating and accessing arrays
-- Accessing arrays using for loop
-- Modifying array elements
-- Using the length property of arrays
-- Multi-dimensional arrays
-- 2D arrays (matrix representation)
-- Accessing elements and finding size of multi-dimensional arrays
-- Using System.err() messages and System.exit() method
-
-📂 Folder: core-java-practice/gcr-codebase/arrays
+## Week 1: Java Basics, Control Flow & Arrays
 
 ---
 
-### ✅ 22 December
-*Completed Java String Lab Practices*
-- Practiced Java String-related problems and exception handling concepts
-- Enhanced understanding of string manipulation and error handling
+- **16-Dec-2025 (Tuesday)** :-
 
-*Topics Covered:*
-- Java Strings and string creation
-- Use of escape sequence (\)
-- Taking string input from user
-- String arrays
-- Passing strings as method parameters
-- String class built-in methods
-- ASCII character codes
-- Java exceptions
-- Exception hierarchy
-- Exception types
-- java.lang.RuntimeException (unchecked exceptions)
+  - Introduction to BridgeLabz training process and guidelines
+  - Installed JDK
+  - Installed Eclipse IDE
 
-📂 Folder:core-java-practice/gcr-codebase/string
+- **17-Dec-2025 (Wednesday)** :-
 
----
+  - Installed and configured Git & GitHub
+  - Solved 5 Java problems
+  - Pushed solutions to the leet-code-codebase
 
-### ✅ 23 December
-*Completed Scenario-Based Java Problems*
-- Implemented real-life scenarios using Java control flow and loops
-- Strengthened logical thinking through conditional and iterative problem-solving
+- **18-Dec-2025 (Thursday)** :-
 
-*Scenarios Covered:*
-- Election Booth Manager
-- - Checked voter eligibility using age (if condition)
-- - Recorded votes for candidates
-- - Used loops to handle multiple voters with exit condition
-- Metro Smart Card Fare Deduction
-- - Calculated fare based on distance using ternary operator
-- - Deducted fare from smart card balance
-- - Implemented loop to continue until balance is exhausted or user quits
+  - Studied Java Basics documentation
+  - Solved all level practice problems.
 
-📂 Folder:core-java-practice/scenario-based
+- **19-Dec-2025 (Friday)** :-
+
+  - Studied Control Flow documentation
+  - Solved and submitted Control Flow practice problems
+  - Enhanced logical thinking and problem-solving
+
+- **20-Dec-2025 (Saturday)** :-
+  - Studied Arrays documentation
+  - Solved all level practice problems related to Arrays
+  - Solved practice problems based on single and multi-dimensional arrays
+  - Solved 2 Scenario Based questions
+
+## Week 2: Strings
 
 ---
 
-### ✅ 24 December
-*Completed Java Methods Lab Practices*
-- Practiced designing and using methods to write modular and reusable code
-- Improved understanding of recursion, static methods, and built-in libraries
+- **22-Dec-2025 (Monday)** :-
 
-*Topics Covered:*
-- User-defined methods
-- Reusing methods multiple times
-- Making methods more dynamic using parameters
-- Recursive methods
-- Java static methods
-- Java standard library methods
-- java.lang.Math class
+  - Studied String documentation
+  - Solved Level 1 and Level 2 String practice problems
+  - Enhanced understanding of string manipulation and error handling
 
-📂 Folder:core-java-practice/gcr-codebase/methods
+- **23-Dec-2025 (Tuesday)** :-
 
----
+  - Solved Level 3 String practice problems
+  - Solved a scenario based question on _Election Booth Manager_
+  - Strengthened logical thinking through conditional and iterative problem-solving
 
-### ✅ 26 December
-*Completed Scenario-Based Java Tasks*
-- Solved real-world scenario problems using loops and conditional logic
-- Improved understanding of decision-making and iterative control flow
+- **24-Dec-2025 (Wednesday)** :-
 
-*Scenarios Covered:*
-- *Bus Route Distance Tracker* 
-  - Tracked total distance using a while loop
-  - Asked passenger confirmation at each stop
-  - Exited the loop based on user confirmation
-- *Festival Lucky Draw*
-  - Checked winning condition using modulus operator
-  - Applied if conditions for divisibility by 3 and 5
-  - Used loops for multiple visitors
-  - Used continue for handling invalid inputs
-  
-📂 Folder:core-java-practice/scenario-based
+  - Solved String Methods – Level 1 and Level 2 practice problems
+  - Solved a Scenario based questions on _Smart Metro Card_
+
+- **26-Dec-2025 (Friday)** :-
+  - Solved String Methods Level 3 and Uploaded it
+  - Solved Extra Questions on String Methods
+  - Solved 2 scenario based questions
+
+## Week 3: OOPS Basics
 
 ---
 
-### ✅ 29 December
-*Completed Employee Wage Computation Program*
-- Implemented an employee wage computation system using Java
-- Applied conditional logic, loops, and methods to calculate wages
+- **29-Dec-2025 (Monday)** :-
 
-*Concepts Covered:*
-- Employee attendance check
-- Daily and part-time wage calculation
-- Wage calculation using switch case
-- Monthly wage computation
-- Wage calculation based on total working hours and days
-  
-📂 Folder:core-java-practice/scenario-based
+  - Completed Built-In Method Extra questions
+  - Solved 4 Scenario based questions
+  - Solved _Employee Wage Computation_ Scenario based question
 
----
+- **30-Dec-2025 (Tuesday)** :-
 
-### ✅ 30 December
-*Completed Line Comparison Problem*
-- Implemented a Java program to compare two lines based on their lengths
+  - Solved _Line Comparison_ Scenario based question
+  - Solved _Snake And Ladder_ Scenario based question
+  - Studied Oops Java Material sheet and Git Cheat Sheet
 
-*Concepts Covered:*
-- Calculating line length using distance formula
-- Comparing line lengths using conditional logic
-- Understanding equality and comparison of values
+- **31-Dec-2025 (Wednesday) :-**
 
-📂 Folder:core-java-practice/scenario-based
+  - Solved java _Class And Object_ assignment
+  - Solved _Java Constructor_ and _Access Modifier_ assignment
 
-*Studied Procedural vs Object-Oriented Programming & Class–Object Concepts*  
-- Understood key differences between Procedural and Object-Oriented Programming  
-- Learned the concepts of Class and Object with examples  
+- **01-Jan-2026 (Thursday) :-**
 
-*Topics Covered:*  
-- Procedural Programming approach  
-- Object-Oriented Programming approach  
-- Difference between Procedural and OOP  
-- Class and Object concepts  
+  - Solved and submitted _Java Keywords_ assignment
+  - Solved _Sentence Formatter_ Scenario based question
+  - Solved _Paragraph Analyzer_ Scennario based question
 
-📂 Folder: oops-practice/class-object
+- **02-Jan-2026 (Friday) :-**
+
+  - Studied and created _Object Modeling_ diagrams
+  - Solved _Temperature Analyzer_ scenario based question
+  - Solved _program to manage Student Scores_ Scenario based question
+
+- **03-Jan-2026 (Saturday) :-**
+  - Studied material and Completed _Inheritance_ assignment
+  - Solved _Library Management System_ scenario based question
+  - Solved _EduQuiz_ Scenario based question
+
+## Week 4: Advance OOPS Concept And DSA
 
 ---
 
-### ✅ 31 December
-*Studied Java Constructors and Variable Scope Concepts*  
-- Learned how constructors initialize objects  
-- Understood the difference between instance and class variables  
-- Explored access control using Java access modifiers  
+- **05-Jan-2026 (Monday) :-**
 
-*Topics Covered:*  
-- Java constructors  
-- Instance variables vs class (static) variables  
-- Access modifiers (`public`, `private`, `protected`, default)  
+  - Studied the module and Solved some problems on _oops-pillars_
+  - Solved _Bank Account Manager_ Scenario based question
+  - Solved _Utility class for Mathematical operations_ Scenario based question
 
----
+- **06-Jan-2026 (Tuesday) :-**
 
-### ✅ 1 January  
-*Completed Java Keywords & String Practice*  
-- Practiced core Java keywords and operators  
-- Worked on string-based problem scenarios  
+  - Solved and Submitted questions on _oops-concept_
+  - Solved Scenario based questions like _Phone Contact Organizer_ and _Student Report Generator_
+  - Solved Scenario based question of _Cafeteria Menu App_ and _Bank Account Manager_
 
-*Concepts Covered:*  
-- `this` keyword  
-- `static` keyword  
-- `final` keyword  
-- `instanceof` operator  
+- **07-Jan-2026 (Wednesday) :-**
 
-*Scenario-Based Problems:*  
-- Strings – Sentence Formatter  
-- Paragraph Text Analyzer  
+  - Studied _Data Structure Introduction and LinkedList_ material
+  - Studied _Approach towards Story Based Problem (Scenario)_ sheet
+  - Solved _Cab Booking / Ride Management System_ scenario based question
+  - Solved _Online Banking System_ scenario based question
 
-📂 Folder:oops-practice/scenario-based
+- **08-Jan-2026 (Thursday) :-**
 
----
+  - Solved some problems related to _linked list_
+  - Solved a scenario based question on _Invoice Generator for Freelancers_
 
-### ✅ 2 January  
-*Studied Classes vs Objects and UML Diagrams*  
-- Understood the difference between **Classes** and **Objects** in Java  
-- Learned basic UML diagrams for system representation  
+- **09-Jan-2026 (Friday) :-**
 
-*Topics Covered:*  
-- Classes vs Objects in Java  
-- Class Diagram  
-- Object Diagram  
-- Sequence Diagram  
+  - Completed remaining problems related to _linked list_
 
-📂 Folder:oops-practice/gcr-codebase/object-modeling
+- **10-Jan-2026 (Saturday) :-**
 
----
+  - Completed remaining Scneario Based Problems
+  - Solved scenario based question on _Hospital Patient Management System_
+  - Solved scenario based question on _Vehicle Rental Application_
+  - Solved scenario based question on _Flight Booking System_
 
-### ✅ 3 January  
-*Completed Inheritance and Polymorphism Concepts*  
-- Studied different types of inheritance and their behavior in Java  
-- Understood method overriding and constructor inheritance  
-- Learned how inheritance supports polymorphism  
+- **12-Jan-2026 (Monday) :-**
 
-*Concepts Covered:*  
-- Inheritance  
-- Single-level inheritance  
-- Multilevel inheritance  
-- Hierarchical inheritance  
-- Key features of inheritance  
-- Method overriding  
-- Constructor inheritance in Java  
-- Polymorphism and inheritance  
-- Access modifiers and inheritance  
+  - Solved scenario based question on _E-Commerce Order Management System_
+  - Solved scenario based question on _Student Course Registration System_
+  - Solved scenario based question on _ Inventory Management System_
 
-*Scenario-Based Problems:*  
-- Library Management System – Book Search and Checkout  
-- EduQuiz – Student Quiz Grader  
-
-📂 Folder:oops-practice/scenario-based<br>
-📂 Folder:oops-practice/gcr-codebase/inheritance
-
----
-
-### ✅ 5 January
-*Completed Encapsulation, Polymorphism, Interface, and Abstract Class Concepts*  
-- Studied core OOP principles and their role in building modular Java applications  
-
-*Concepts Covered:*  
-- Encapsulation  
-- Polymorphism  
-- Interface  
-- Abstract classes  
-
-*Scenario-Based Problems:*  
-- Invoice Generator for Freelancers  
-- Cafeteria Menu App  
-
-📂 Folder:oops-practice/scenario-based<br>
-📂 Folder:oops-practice/gcr-codebase/encapsulation-polymorphism-interface-abstract
-
----
-
-### ✅ 6 January 
-*Completed Advanced Scenario-Based Java Practice with Collections & Exceptions*  
-- Implemented real-world applications using lists, arrays, strings, methods, and custom exceptions  
-- Practiced problems in LeetCode  
-
-*Scenario-Based Problems:*  
-- Phone Contact Organizer  
-- Online Quiz Platform – Result Processor  
-- Student Report Generator  
-- Library Management System – Book Search and Checkout
-
-📂 Folder:oops-practice/scenario-based<br>
-📂 Folder:oops-practice/leet-code-codebase
-
----
+- **13-Jan-2026 (Tuesday) :-**
+  - Solved scenario based question on _Voting System_
+  - Solved scenario based question on _HOtel Management System_
+  - Solved scenario based question on _ Digital Wallet_
+  - Solved scenario based question on _Online Examination System_

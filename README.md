@@ -199,27 +199,27 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved scenario based question on _ Digital Wallet_
   - Solved scenario based question on _Online Examination System_
 
-  - **15-Jan-2026 (Thursday) :-**
+- **15-Jan-2026 (Thursday) :-**
     -Learn Sorting and searching algo
   - Solved scenario based question on _Bubble Sort_
   - Solved scenario based question on _Insertion Sort_
 
-  - **16-Jan-2026 (Firday) :-**
+- **16-Jan-2026 (Firday) :-**
   - Solved scenario based question on \_Quick Sort
   - Solved scenario based question on _Sleection Sort_
   - Solved scenario based question on _ Counting Sort_
 
-  - **17-Jan-2026 (Saturday) :-**
+- **17-Jan-2026 (Saturday) :-**
   -Searching submission -: Linear and Binary Search
 
-  - **18-Jan-2026 (Sunday) :-**
+- **18-Jan-2026 (Sunday) :-**
   - Merge Conflict Submission
 
-  - **19-Jan-2026 (Monday) :-**
+- **19-Jan-2026 (Monday) :-**
   -Address Book problem Submission
 
-  - **20-Jan-2026 (Tuesday) :-**
+- **20-Jan-2026 (Tuesday) :-**
   - Big 0 notation submission
 
-  - **21-Jan-2026 (Wednesday) :-**
+- **21-Jan-2026 (Wednesday) :-**
   - Solved problem releated to Generics

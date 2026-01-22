@@ -36,11 +36,25 @@ This repository contains all the tasks, practice programs, scenario-based proble
      ├── dsa-practice/
      │   ├── gcr-codebase/
      │   │   ├── linked-list/
+     |   |   ├── stack-and-queue/
+     |   |   ├── hashmap-hashing/
+     |   |   ├── sorting-algorithm/
+     |   |   ├── linear-binary-search/
+     |   |   ├── runtime-analysis/
      |   |
+     │   ├── leet-code-codebase/
      |   |
+     │   └── scenario-based/
+     |
+     ├── collections-practice/
+     │   ├── gcr-codebase/
+     │   │   ├── generics/
+     |   |   ├── collections/
+     |   
      ├── reviews/
      |
      +-- README.md
+
 
 ## Weekly Workflow & Progress :-
 

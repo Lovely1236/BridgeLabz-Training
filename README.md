@@ -36,8 +36,21 @@ This repository contains all the tasks, practice programs, scenario-based proble
      ├── dsa-practice/
      │   ├── gcr-codebase/
      │   │   ├── linked-list/
+     |   |   ├── stack-and-queue/
+     |   |   ├── hashmap-hashing/
+     |   |   ├── sorting-algorithm/
+     |   |   ├── linear-binary-search/
+     |   |   ├── runtime-analysis/
      |   |
+     │   ├── leet-code-codebase/
      |   |
+     │   └── scenario-based/
+     |
+     ├── collections-practice/
+     │   ├── gcr-codebase/
+     │   │   ├── generics/
+     |   |   ├── collections/
+     |   
      ├── reviews/
      |
      +-- README.md
@@ -193,3 +206,33 @@ This repository contains all the tasks, practice programs, scenario-based proble
   - Solved scenario based question on _HOtel Management System_
   - Solved scenario based question on _ Digital Wallet_
   - Solved scenario based question on _Online Examination System_
+- **14-Jan-2026 (Wednesday) :-**
+  - Solved scenario based question on _Voting System_
+  - Solved scenario based question on _HOtel Management System_
+  - Solved scenario based question on _ Digital Wallet_
+  - Solved scenario based question on _Online Examination System_
+
+- **15-Jan-2026 (Thursday) :-**
+    -Learn Sorting and searching algo
+  - Solved scenario based question on _Bubble Sort_
+  - Solved scenario based question on _Insertion Sort_
+
+- **16-Jan-2026 (Firday) :-**
+  - Solved scenario based question on \_Quick Sort
+  - Solved scenario based question on _Sleection Sort_
+  - Solved scenario based question on _ Counting Sort_
+
+- **17-Jan-2026 (Saturday) :-**
+  - Searching submission -: Linear and Binary Search
+
+- **18-Jan-2026 (Sunday) :-**
+  - Merge Conflict Submission
+
+- **19-Jan-2026 (Monday) :-**
+  -Address Book problem Submission
+
+- **20-Jan-2026 (Tuesday) :-**
+  - Big 0 notation submission
+
+- **21-Jan-2026 (Wednesday) :-**
+  - Solved problem releated to Generics

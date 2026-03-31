@@ -1,4 +1,4 @@
-﻿## BridgeLabz Training
+﻿## BridgeLabz Daily Progress Report 🚀
 
 This repository contains all the tasks, practice programs, scenario-based problems, and problem-solving work completed as part of **BridgeLabz Training** and organized week-wise, day-wise and topic-wise while following standard GitHub workflows.
 

@@ -50,7 +50,43 @@ This repository contains all the tasks, practice programs, scenario-based proble
      │   ├── gcr-codebase/
      │   │   ├── generics/
      |   |   ├── collections/
-     |   
+     |   |      ├── exceptions/
+     |   |      ├── java_streams/
+     |   |      ├── regex/
+     |   |      ├── j_unit/
+     |   |      ├── annotation/
+     |   |      ├── reflection/
+     |   |
+     |   |
+     |   ├── leetcode-code-codebase/          # Daily DSA practice
+     │   └── scenario-based/                  # Scenario-based & real-world logic problems
+     |
+     |
+     ├── solution-designing-practice/
+     │   
+     |
+     ├── io-programming-practice/
+     │   ├── gcr-codebase/
+     |   |      ├── csv/
+     |   |      ├── json/json-practice
+     |
+     |
+     ├── java8-features-practice/
+     │   ├── gcr-codebase/
+     |   |      ├── lambda_expression/
+     |   |      ├── functional-interface
+     |   |      ├── stream-api
+     |   |      ├── collectors
+     |   ├── scenario-based
+     |
+     | 
+     ├── multi-threading-practice/
+     │   ├── gcr-codebase/
+     |
+     |
+     ├── jdbc-dbms-practice/
+     │   
+     |    
      ├── reviews/
      |
      +-- README.md

@@ -18,6 +18,7 @@ The work is systematically organized **week-wise, day-wise, and topic-wise**, fo
 
 ## 📁 Repository Structure
 
+```text
 BridgeLabz-Training/
 │
 ├── core-java-practice/
@@ -85,7 +86,7 @@ BridgeLabz-Training/
 ├── reviews/
 │
 └── README.md
-
+```
 ---
 
 ## 📅 Weekly Progress & Learning Journey

@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 
-This repository documents my **Refresher Training** on **Database Management Systems (DBMS)** and **MySQL**, covering database fundamentals, SQL, schema design, normalization, indexing, query optimization, and industry best practices through the **Health Clinic Database Project**.
+This repository documents my **Refresher Training** on **Database Management Systems (DBMS)** and **MySQL**, covering database fundamentals, SQL, schema design, normalization, indexing, query optimization, stored procedures, and triggers through the **Health Clinic Database Project**.
 
 ---
 
@@ -43,7 +43,7 @@ This repository documents my **Refresher Training** on **Database Management Sys
 ### 💻 Practical Session
 
 - ✅ Installed & Configured MySQL
-- ✅ Created Database & Tables
+- ✅ Created Databases & Tables
 - ✅ Performed CRUD Operations
 - ✅ Executed SQL Queries
 - ✅ Modified Table Structure
@@ -89,13 +89,13 @@ This repository documents my **Refresher Training** on **Database Management Sys
 
 ### 💻 Practical Session
 
-- ✅ Extended the database schema
-- ✅ Created Rooms & Doctor-Room tables
-- ✅ Inserted sample data
-- ✅ Verified normalization
-- ✅ Created and tested indexes
-- ✅ Analyzed query execution plans using `EXPLAIN`
-- ✅ Optimized SQL queries
+- ✅ Extended the Database Schema
+- ✅ Created Rooms & Doctor-Room Tables
+- ✅ Inserted Sample Data
+- ✅ Verified Normalization
+- ✅ Created & Tested Indexes
+- ✅ Analyzed Query Execution Plans using `EXPLAIN`
+- ✅ Optimized SQL Queries
 
 ### 🎯 Learning Outcomes
 
@@ -108,6 +108,53 @@ This repository documents my **Refresher Training** on **Database Management Sys
 
 ---
 
+# 📚 Day 3 – SQL Joins, Stored Procedures & Triggers
+
+> **Project:** Health Clinic Database
+
+### 🚀 Topics Covered
+
+#### 🔗 SQL Joins
+- INNER JOIN
+- LEFT JOIN
+- RIGHT JOIN
+- FULL OUTER JOIN (`UNION`)
+- SELF JOIN
+- CROSS JOIN
+- Multiple Table Joins
+
+#### ⚙️ Stored Procedures
+- Creating & Calling Procedures
+- IN, OUT & INOUT Parameters
+- Error Handling
+- Reusable Database Logic
+
+#### 🔄 Triggers
+- BEFORE INSERT / UPDATE / DELETE
+- AFTER INSERT / UPDATE / DELETE
+- Audit Logging
+- Data Validation
+- Business Rule Enforcement
+
+### 💻 Practical Session
+
+- ✅ Implemented SQL JOINs
+- ✅ Built Multi-table Reports
+- ✅ Created Stored Procedures
+- ✅ Implemented Audit Triggers
+- ✅ Automated Visit History
+- ✅ Applied Validation using Triggers
+
+### 🎯 Learning Outcomes
+
+- Write complex JOIN queries
+- Build reusable stored procedures
+- Use IN, OUT & INOUT parameters
+- Automate database operations using triggers
+- Implement auditing and business rules
+
+---
+
 # 🛠️ Tech Stack
 
 | Technology | Purpose |
@@ -117,6 +164,8 @@ This repository documents my **Refresher Training** on **Database Management Sys
 | 💻 MySQL CLI | Database Management |
 | 🔍 EXPLAIN | Query Execution Analysis |
 | ⚡ Indexes | Performance Optimization |
+| ⚙️ Stored Procedures | Reusable Database Logic |
+| 🔄 Triggers | Database Automation |
 
 ---
 
@@ -128,6 +177,8 @@ This repository documents my **Refresher Training** on **Database Management Sys
 - CRUD Operations
 - Database Normalization
 - SQL Joins
+- Stored Procedures
+- Triggers
 - Indexing
 - Query Optimization
 - Performance Tuning
@@ -136,6 +187,17 @@ This repository documents my **Refresher Training** on **Database Management Sys
 
 ---
 
+## 📈 Training Progress
+
+| Day | Topics | Status |
+|------|--------|:------:|
+| ✅ Day 1 | DBMS Fundamentals, SQL, CRUD, Normalization | ✔️ |
+| ✅ Day 2 | Database Design, Relationships, Indexing, EXPLAIN | ✔️ |
+| ✅ Day 3 | SQL Joins, Stored Procedures, Triggers | ✔️ |
+
+---
+
 <p align="center">
-  ⭐ <b>Refresher Training - Day 1 & Day 2 Completed Successfully</b> ⭐
+  <b>🚀 Refresher Training Progress: 3 / N Days Completed</b><br><br>
+  ⭐ <b>Learning • Building • Improving Every Day</b> ⭐
 </p>

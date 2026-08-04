@@ -198,6 +198,6 @@ This repository documents my **Refresher Training** on **Database Management Sys
 ---
 
 <p align="center">
-  <b>🚀 Refresher Training Progress: 3 / N Days Completed</b><br><br>
+  <b>🚀 Refresher Training Progress: 3 / 20 Days Completed</b><br><br>
   ⭐ <b>Learning • Building • Improving Every Day</b> ⭐
 </p>

@@ -1,4 +1,4 @@
-.ide/
+.idea/
 .smarttomcat/
 target/
 !.mvn/wrapper/maven-wrapper.jar

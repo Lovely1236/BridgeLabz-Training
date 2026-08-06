@@ -115,13 +115,10 @@ This repository documents my **Refresher Training** on **Database Management Sys
 ### 🚀 Topics Covered
 
 #### 🔗 SQL Joins
-- INNER JOIN
-- LEFT JOIN
-- RIGHT JOIN
-- FULL OUTER JOIN (`UNION`)
+- INNER, LEFT, RIGHT, FULL OUTER
 - SELF JOIN
 - CROSS JOIN
-- Multiple Table Joins
+- Multi-table JOINs
 
 #### ⚙️ Stored Procedures
 - Creating & Calling Procedures
@@ -130,8 +127,7 @@ This repository documents my **Refresher Training** on **Database Management Sys
 - Reusable Database Logic
 
 #### 🔄 Triggers
-- BEFORE INSERT / UPDATE / DELETE
-- AFTER INSERT / UPDATE / DELETE
+- BEFORE & AFTER Triggers
 - Audit Logging
 - Data Validation
 - Business Rule Enforcement
@@ -139,65 +135,172 @@ This repository documents my **Refresher Training** on **Database Management Sys
 ### 💻 Practical Session
 
 - ✅ Implemented SQL JOINs
-- ✅ Built Multi-table Reports
 - ✅ Created Stored Procedures
+- ✅ Built Multi-table Reports
 - ✅ Implemented Audit Triggers
 - ✅ Automated Visit History
-- ✅ Applied Validation using Triggers
 
 ### 🎯 Learning Outcomes
 
 - Write complex JOIN queries
-- Build reusable stored procedures
-- Use IN, OUT & INOUT parameters
-- Automate database operations using triggers
+- Create reusable stored procedures
+- Automate database operations
 - Implement auditing and business rules
+
+---
+
+# 📚 Day 4 – JDBC & MySQL Integration
+
+> **Project:** Health Clinic Management System
+
+### 🚀 Topics Covered
+
+#### ☕ JDBC Fundamentals
+- JDBC Architecture
+- DriverManager & Connection
+- PreparedStatement
+- ResultSet Mapping
+- Exception Handling
+
+#### 🏗️ Backend Architecture
+- Layered Architecture
+- DAO Pattern
+- DTO Pattern
+- Service Layer
+- Console-Based Application
+
+#### 🔄 Database Operations
+- CRUD Operations
+- Transaction Management
+- Commit & Rollback
+- Auto Generated Keys
+- Try-With-Resources
+
+### 💻 Practical Session
+
+- ✅ Built Layered Health Clinic Application
+- ✅ Implemented DAO & DTO Patterns
+- ✅ Performed CRUD Operations
+- ✅ Integrated Java with MySQL
+- ✅ Implemented Transactions
+- ✅ Developed Console-Based Menu System
+
+### 🎯 Learning Outcomes
+
+- Connect Java applications with MySQL
+- Implement CRUD using JDBC
+- Apply DAO & DTO design patterns
+- Manage database transactions
+- Develop modular backend applications
+
+---
+
+# 📚 Day 5 – Java Servlet Fundamentals
+
+> **Project:** Greeting Web Application
+
+### 🚀 Topics Covered
+
+#### 🌐 Java Servlets
+- Servlet Architecture
+- Servlet Life Cycle
+- HttpServlet
+- Request & Response Handling
+
+#### 🚀 Apache Tomcat
+- Installation & Configuration
+- WAR Deployment
+- Environment Setup
+- Application Deployment
+
+#### 📦 Maven Web Application
+- Maven Web Project
+- pom.xml Configuration
+- WAR Packaging
+- Project Structure
+
+#### 📝 HTTP & Forms
+- GET & POST Methods
+- HTML Form Integration
+- Request Parameters
+- Dynamic Response Generation
+
+### 💻 Practical Session
+
+- ✅ Built Greeting Web Application
+- ✅ Configured Apache Tomcat
+- ✅ Implemented GET & POST Requests
+- ✅ Connected HTML Forms with Servlets
+- ✅ Deployed Maven WAR Project
+- ✅ Debugged Deployment Issues
+
+### 🎯 Learning Outcomes
+
+- Develop Java Servlet applications
+- Deploy applications on Apache Tomcat
+- Handle HTTP Requests & Responses
+- Integrate HTML Forms with Servlets
+- Debug Java Web Applications
 
 ---
 
 # 🛠️ Tech Stack
 
-| Technology | Purpose |
-|------------|---------|
-| 🐬 MySQL | Relational Database |
-| 📝 SQL | Query Language |
-| 💻 MySQL CLI | Database Management |
-| 🔍 EXPLAIN | Query Execution Analysis |
-| ⚡ Indexes | Performance Optimization |
-| ⚙️ Stored Procedures | Reusable Database Logic |
-| 🔄 Triggers | Database Automation |
+| Category | Technologies |
+|----------|--------------|
+| Programming | Java 21 |
+| Database | MySQL |
+| Database Access | JDBC |
+| Query Language | SQL |
+| Web | Java Servlet, HTML |
+| Server | Apache Tomcat 10 |
+| Build Tool | Maven |
+| IDE | IntelliJ IDEA |
+| Version Control | Git & GitHub |
 
 ---
 
 # 🎯 Skills Gained
 
 - Database Design
-- Relational Database Modeling
-- SQL Query Writing
+- SQL & Advanced SQL
 - CRUD Operations
 - Database Normalization
 - SQL Joins
 - Stored Procedures
 - Triggers
-- Indexing
-- Query Optimization
-- Performance Tuning
-- Database Security
-- MySQL Administration
+- Indexing & Query Optimization
+- JDBC Programming
+- DAO & DTO Pattern
+- Layered Architecture
+- Transaction Management
+- Java Servlets
+- HTTP Request & Response
+- Tomcat Deployment
+- Maven Web Applications
+- Backend Development
+- Java & MySQL Integration
 
 ---
 
 ## 📈 Training Progress
 
-| Day | Topics | Status |
+| Day | Module | Status |
 |------|--------|:------:|
-| ✅ Day 1 | DBMS Fundamentals, SQL, CRUD, Normalization | ✔️ |
-| ✅ Day 2 | Database Design, Relationships, Indexing, EXPLAIN | ✔️ |
-| ✅ Day 3 | SQL Joins, Stored Procedures, Triggers | ✔️ |
+| ✅ Day 1 | DBMS Fundamentals & SQL | ✔️ |
+| ✅ Day 2 | Database Design & Query Optimization | ✔️ |
+| ✅ Day 3 | SQL Joins, Stored Procedures & Triggers | ✔️ |
+| ✅ Day 4 | JDBC & MySQL Integration | ✔️ |
+| ✅ Day 5 | Java Servlet Fundamentals | ✔️ |
 
 ---
 
-<p align="center">
-  <b>🚀 Refresher Training Progress: 3 / 20 Days Completed</b><br><br>
-  ⭐ <b>Learning • Building • Improving Every Day</b> ⭐
-</p>
+<div align="center">
+
+## 🏆 Progress
+
+**5 / 20 Days Completed**
+
+⭐ **Learning • Building • Improving Every Day** ⭐
+
+</div>

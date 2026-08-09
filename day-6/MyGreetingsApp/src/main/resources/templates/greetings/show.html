@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Greeting Detail</title>
+</head>
+<body>
+<h2>Greeting Details</h2>
+<p><strong>Name:</strong> <span th:text="${greeting.name}"></span></p>
+<p><strong>Message:</strong> <span th:text="${greeting.message}"></span></p>
+<a th:href="@{/greetings}">Back to list</a>
+</body>
+</html>

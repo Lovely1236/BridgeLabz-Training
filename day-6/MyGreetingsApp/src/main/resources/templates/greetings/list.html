@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Greetings</title>
+</head>
+<body>
+<h2>Greetings List</h2>
+<form th:action="@{/greetings}" th:object="${greeting}" method="post">
+    <input type="text" th:field="*{name}" placeholder="Name" />
+    <input type="text" th:field="*{message}" placeholder="Message" />
+    <button type="submit">Add Greeting</button>
+</form>
+
+<ul>
+    <li th:each="greeting : ${greetings}">
+        <a th:href="@{/greetings/{id}(id=${greeting.id})}" th:text="${greeting.name} + ' - ' + ${greeting.message}"></a>
+        <form th:action="@{/greetings/{id}/delete(id=${greeting.id})}" method="post" style="display:inline;">
+            <button type="submit">Delete</button>
+        </form>
+    </li>
+</ul>
+
+<a href="/">Back Home</a>
+</body>
+</html>

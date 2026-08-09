@@ -196,51 +196,57 @@ This repository documents my **Refresher Training** on **Database Management Sys
 ---
 
 # 📚 Day 5 – Java Servlet Fundamentals
-
 > **Project:** Greeting Web Application
 
 ### 🚀 Topics Covered
+- Servlet Lifecycle & Architecture
+- Apache Tomcat Setup
+- Maven Web Application
+- HTTP (GET/POST), Forms
 
-#### 🌐 Java Servlets
-- Servlet Architecture
-- Servlet Life Cycle
-- HttpServlet
-- Request & Response Handling
+### 💻 Practical
+- ✅ Built Servlet-based Web App  
+- ✅ Form Handling  
+- ✅ Deployment & Debugging  
 
-#### 🚀 Apache Tomcat
-- Installation & Configuration
-- WAR Deployment
-- Environment Setup
-- Application Deployment
+### 🎯 Outcome
+- Built and deployed Java web applications using Servlets
 
-#### 📦 Maven Web Application
-- Maven Web Project
-- pom.xml Configuration
-- WAR Packaging
-- Project Structure
+---
 
-#### 📝 HTTP & Forms
-- GET & POST Methods
-- HTML Form Integration
-- Request Parameters
-- Dynamic Response Generation
+# 📚 Day 6 – Spring MVC & CRUD Operations
+> **Project:** Spring MVC Application
 
-### 💻 Practical Session
+### 🚀 Topics Covered
 
-- ✅ Built Greeting Web Application
-- ✅ Configured Apache Tomcat
-- ✅ Implemented GET & POST Requests
-- ✅ Connected HTML Forms with Servlets
-- ✅ Deployed Maven WAR Project
-- ✅ Debugged Deployment Issues
+#### 🌱 Spring MVC Fundamentals
+- MVC Architecture (Model, View, Controller)
+- DispatcherServlet
+- Request-Response Handling
+- Servlet vs Spring MVC
+
+#### ⚙️ Spring Boot Setup
+- Spring Boot Project (Maven)
+- `spring-boot-starter-web`
+- Embedded Tomcat
+- Java 21 Configuration
+
+#### 🏗️ MVC Flow
+```
+Client → DispatcherServlet → Controller → Service → Repository → Database
+```
+
+### 💻 Practical
+- ✅ Created Spring Boot MVC Project  
+- ✅ Implemented Layered Architecture  
+- ✅ Built CRUD Operations  
+- ✅ Configured Controllers, Services & Repository  
 
 ### 🎯 Learning Outcomes
-
-- Develop Java Servlet applications
-- Deploy applications on Apache Tomcat
-- Handle HTTP Requests & Responses
-- Integrate HTML Forms with Servlets
-- Debug Java Web Applications
+- Understand Spring MVC architecture
+- Build CRUD applications using Spring Boot
+- Handle web requests using controllers
+- Apply layered architecture in real-world apps
 
 ---
 
@@ -248,38 +254,30 @@ This repository documents my **Refresher Training** on **Database Management Sys
 
 | Category | Technologies |
 |----------|--------------|
-| Programming | Java 21 |
+| Language | Java 21 |
 | Database | MySQL |
-| Database Access | JDBC |
-| Query Language | SQL |
-| Web | Java Servlet, HTML |
-| Server | Apache Tomcat 10 |
+| Backend | JDBC, Spring MVC |
+| Web | Servlets, HTML |
+| Framework | Spring Boot |
+| Server | Apache Tomcat |
 | Build Tool | Maven |
-| IDE | IntelliJ IDEA |
-| Version Control | Git & GitHub |
+| Tools | IntelliJ IDEA, Git, GitHub |
 
 ---
 
 # 🎯 Skills Gained
 
-- Database Design
-- SQL & Advanced SQL
-- CRUD Operations
-- Database Normalization
-- SQL Joins
-- Stored Procedures
-- Triggers
-- Indexing & Query Optimization
+- DBMS & SQL
+- Database Design & Normalization
+- Advanced SQL (Joins, Procedures, Triggers)
 - JDBC Programming
 - DAO & DTO Pattern
 - Layered Architecture
 - Transaction Management
 - Java Servlets
-- HTTP Request & Response
-- Tomcat Deployment
-- Maven Web Applications
+- Spring MVC
+- CRUD API Development
 - Backend Development
-- Java & MySQL Integration
 
 ---
 
@@ -287,11 +285,12 @@ This repository documents my **Refresher Training** on **Database Management Sys
 
 | Day | Module | Status |
 |------|--------|:------:|
-| ✅ Day 1 | DBMS Fundamentals & SQL | ✔️ |
-| ✅ Day 2 | Database Design & Query Optimization | ✔️ |
-| ✅ Day 3 | SQL Joins, Stored Procedures & Triggers | ✔️ |
-| ✅ Day 4 | JDBC & MySQL Integration | ✔️ |
-| ✅ Day 5 | Java Servlet Fundamentals | ✔️ |
+| ✅ Day 1 | DBMS & SQL | ✔️ |
+| ✅ Day 2 | DB Design & Optimization | ✔️ |
+| ✅ Day 3 | Joins, Procedures, Triggers | ✔️ |
+| ✅ Day 4 | JDBC Integration | ✔️ |
+| ✅ Day 5 | Java Servlets | ✔️ |
+| ✅ Day 6 | Spring MVC & CRUD | ✔️ |
 
 ---
 
@@ -299,7 +298,7 @@ This repository documents my **Refresher Training** on **Database Management Sys
 
 ## 🏆 Progress
 
-**5 / 20 Days Completed**
+**6 / 20 Days Completed**
 
 ⭐ **Learning • Building • Improving Every Day** ⭐
 

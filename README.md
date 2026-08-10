@@ -219,34 +219,95 @@ This repository documents my **Refresher Training** on **Database Management Sys
 
 ### 🚀 Topics Covered
 
-#### 🌱 Spring MVC Fundamentals
-- MVC Architecture (Model, View, Controller)
-- DispatcherServlet
-- Request-Response Handling
+#### 🌱 Spring MVC
+- Model, View & Controller
+- `DispatcherServlet`
+- Request-Response Flow
 - Servlet vs Spring MVC
 
-#### ⚙️ Spring Boot Setup
-- Spring Boot Project (Maven)
+#### ⚙️ Spring Boot
+- Spring Boot Maven Project
 - `spring-boot-starter-web`
 - Embedded Tomcat
 - Java 21 Configuration
 
-#### 🏗️ MVC Flow
-```
-Client → DispatcherServlet → Controller → Service → Repository → Database
+#### 🏗️ Architecture
+```text
+Client
+   ↓
+DispatcherServlet
+   ↓
+Controller
+   ↓
+Service
+   ↓
+Repository
+   ↓
+Database
 ```
 
 ### 💻 Practical
-- ✅ Created Spring Boot MVC Project  
-- ✅ Implemented Layered Architecture  
-- ✅ Built CRUD Operations  
-- ✅ Configured Controllers, Services & Repository  
+- ✅ Created Spring Boot MVC Application
+- ✅ Implemented Layered Architecture
+- ✅ Developed CRUD Operations
+- ✅ Configured Controllers, Services & Repository
 
-### 🎯 Learning Outcomes
-- Understand Spring MVC architecture
-- Build CRUD applications using Spring Boot
-- Handle web requests using controllers
-- Apply layered architecture in real-world apps
+### 🎯 Outcome
+Learned to build **layered CRUD applications using Spring Boot and Spring MVC**.
+
+---
+
+# 📚 Day 7 – Contact Management REST API
+> **Project:** Contact Management API
+
+### 🚀 Topics Covered
+
+- REST API Fundamentals
+- Spring Web
+- Layered Architecture
+- DTO Pattern
+- Service Interface & Implementation
+- Spring Data JPA
+- Entity & Repository
+- Lombok
+- Jakarta Validation
+- H2 Database
+
+### 🏗️ Architecture
+
+```text
+Client
+   ↓
+Controller
+   ↓
+DTO
+   ↓
+Service Interface
+   ↓
+Service Implementation
+   ↓
+Repository
+   ↓
+Entity
+   ↓
+H2 Database
+```
+
+### 💻 Practical
+
+- ✅ Created Spring Boot REST API
+- ✅ Implemented Contact Entity
+- ✅ Created Request & Response DTOs
+- ✅ Implemented Service Layer
+- ✅ Created JPA Repository
+- ✅ Configured H2 Database
+- ✅ Added Validation
+- ✅ Implemented Create Contact API
+- ✅ Implemented Get All Contacts API
+
+### 🎯 Outcome
+
+Built a basic **RESTful Contact Management API** using Spring Boot and learned how different backend layers work together to process API requests.
 
 ---
 
@@ -254,30 +315,42 @@ Client → DispatcherServlet → Controller → Service → Repository → Datab
 
 | Category | Technologies |
 |----------|--------------|
-| Language | Java 21 |
-| Database | MySQL |
-| Backend | JDBC, Spring MVC |
-| Web | Servlets, HTML |
-| Framework | Spring Boot |
-| Server | Apache Tomcat |
-| Build Tool | Maven |
-| Tools | IntelliJ IDEA, Git, GitHub |
+| 💻 Language | Java 21 |
+| 🗄️ Database | MySQL, H2 |
+| 📝 Query Language | SQL |
+| 🔌 Database Access | JDBC, JPA |
+| 🌱 Framework | Spring Boot, Spring MVC |
+| 🌐 Web | Servlets, REST API |
+| 📦 ORM | Spring Data JPA |
+| 🛡️ Validation | Jakarta Validation |
+| ✨ Utility | Lombok |
+| 🚀 Server | Apache Tomcat |
+| 🔨 Build Tool | Maven |
+| 🧰 Tools | IntelliJ IDEA, Git, GitHub |
 
 ---
 
 # 🎯 Skills Gained
 
 - DBMS & SQL
-- Database Design & Normalization
-- Advanced SQL (Joins, Procedures, Triggers)
-- JDBC Programming
-- DAO & DTO Pattern
+- Relational Database Design
+- Database Normalization
+- SQL Joins
+- Stored Procedures & Triggers
+- Indexing & Query Optimization
+- JDBC
+- DAO & DTO Patterns
 - Layered Architecture
 - Transaction Management
 - Java Servlets
 - Spring MVC
-- CRUD API Development
-- Backend Development
+- Spring Boot
+- REST API Development
+- Spring Data JPA
+- Entity & Repository Design
+- Request & Response DTOs
+- Validation
+- H2 Database
 
 ---
 
@@ -285,20 +358,23 @@ Client → DispatcherServlet → Controller → Service → Repository → Datab
 
 | Day | Module | Status |
 |------|--------|:------:|
-| ✅ Day 1 | DBMS & SQL | ✔️ |
-| ✅ Day 2 | DB Design & Optimization | ✔️ |
-| ✅ Day 3 | Joins, Procedures, Triggers | ✔️ |
-| ✅ Day 4 | JDBC Integration | ✔️ |
-| ✅ Day 5 | Java Servlets | ✔️ |
-| ✅ Day 6 | Spring MVC & CRUD | ✔️ |
+| ✅ Day 1 | DBMS & SQL Fundamentals | ✔️ |
+| ✅ Day 2 | Database Design & Optimization | ✔️ |
+| ✅ Day 3 | Joins, Procedures & Triggers | ✔️ |
+| ✅ Day 4 | JDBC & MySQL Integration | ✔️ |
+| ✅ Day 5 | Java Servlet Fundamentals | ✔️ |
+| ✅ Day 6 | Spring MVC & CRUD Operations | ✔️ |
+| ✅ Day 7 | Contact Management REST API | ✔️ |
 
 ---
 
 <div align="center">
 
-## 🏆 Progress
+## 🏆 Training Progress
 
-**6 / 20 Days Completed**
+### **7 / 20 Days Completed**
+
+**DBMS → SQL → JDBC → Servlets → Spring MVC → REST API**
 
 ⭐ **Learning • Building • Improving Every Day** ⭐
 

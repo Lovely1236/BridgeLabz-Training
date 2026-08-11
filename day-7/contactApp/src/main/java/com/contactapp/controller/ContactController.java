@@ -27,12 +27,10 @@ public class ContactController {
     public ContactController(ContactService contactService) {
         this.contactService = contactService;
     }
-
     @GetMapping
     public List<ContactResponse> getAllContacts() {
         return contactService.findAllContacts();
     }
-
     @GetMapping("/{id}")
     public ContactResponse getContactById(@PathVariable Long id) {
         return contactService.findContactById(id);

@@ -23,9 +23,10 @@ public class EmployeeController {
 
     private final EmployeeService employeeService;
 
-    @PostMapping
-    public ResponseEntity<Employee> createEmployee(@RequestBody Employee employee) {
-        return ResponseEntity.status(HttpStatus.CREATED).body(employeeService.createEmployee(employee));
+    @PostMapping("/{name}/{department}/{salary}")
+    public ResponseEntity<Employee> createEmployee(@PathVariable String name, @PathVariable String department, @PathVariable double salary) {
+        Employee employee = Employee.builder().name(name).department(department).salary(salary).build();
+        return ResponseEntity.ok(employeeService.createEmployee(employee));
     }
 
     @GetMapping
